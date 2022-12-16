@@ -1,6 +1,6 @@
 # Typedream Frontend Test
 
-![typedram-frontend-test](https://raw.githubusercontent.com/alfanfauzy/typedream-richtext/main/public/typedream-richtext.png)
+![typedram-frontend-test](https://raw.githubusercontent.com/alfanfauzy/typedream-richtext/main/public/screenshoot-typedream-texteditor.png)
 
 This is a starter template build with [Next.js](https://nextjs.org/learn).
 
