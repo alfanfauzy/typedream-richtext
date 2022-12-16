@@ -20,13 +20,13 @@
     display: block;
     text-align: center;
   line-height: 1.5;
-  font-size: 1rem;
+  font-size: 14px;
 }
 
 .description ul{
     list-style: none;
     display: block;
-    width: 260px;
+    width: 300px;
     border: 1px solid;
     text-align: left;
     padding: 15px;
@@ -68,6 +68,8 @@ width: 60%;
     border-radius: 4px;
     background-color: #fcbf6d;
     display: flex;
+    align-items: center;
+    font-size: 13px;
 }
 
 
@@ -78,6 +80,7 @@ width: 60%;
 }
 
 .editor{
+    font-size: 14px;
     padding: 10px;
     border-right: 1px solid #eaeaea;
     border-left: 1px solid #eaeaea;

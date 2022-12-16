@@ -6,7 +6,7 @@ This is a starter template build with [Next.js](https://nextjs.org/learn).
 
 ## 📝 How to Use
 
--   Access the website in [Typedream - Richtext Editor](https://mileapp-test.vercel.app/)
+-   Access the website in [Typedream - Richtext Editor](https://typedream-richtext.vercel.app/)
 -   This rich text editor have 3 formating text :
     1. **Bold** (ctrl+b)
     2. _Italic_ (ctrl+i)
