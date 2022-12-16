@@ -1,6 +1,6 @@
 # Typedream Frontend Test
 
-![typedram-frontend-test](https://gitlab.com/zhafhy/mileapp-test/-/raw/master/public/assets/images/mileapp-test-frontend.png)
+![typedram-frontend-test](https://raw.githubusercontent.com/alfanfauzy/typedream-richtext/main/public/typedream-richtext.png)
 
 This is a starter template build with [Next.js](https://nextjs.org/learn).
 
