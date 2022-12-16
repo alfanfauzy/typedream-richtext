@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "format": "bold"
+    },
+    {
+        "id": 2,
+        "format": "italic"
+    },
+    {
+        "id": 3,
+        "format": "underline"
+    },
+    {
+        "id": 4,
+        "format": "code"
+    }
+]
